@@ -12,8 +12,4 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @EnableTransactionManagement
 @MapperScan({"com.macro.mall.mapper","com.macro.mall.dao"})
 public class MyBatisConfig {
-    private Integer age;
-    private Integer sex;
-    private String a;
-    private String c;
 }
