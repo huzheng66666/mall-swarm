@@ -14,4 +14,5 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class MyBatisConfig {
     private Integer age;
     private Integer sex;
+    private String a;
 }
