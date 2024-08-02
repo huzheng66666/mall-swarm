@@ -15,5 +15,5 @@ public class MyBatisConfig {
     private Integer age;
     private Integer sex;
     private String a;
-    private String b;
+    private String c;
 }
